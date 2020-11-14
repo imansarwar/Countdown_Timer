@@ -21,6 +21,13 @@ h1 {
     font-size: 4rem;
     margin-top: 5rem;
 }
+.name {
+  font-weight: normal;
+  font-size: 20px;
+  margin-top: 5rem;
+  margin-right: -3rem;
+  color: #f1f0ec9a;
+}
 
 .countdown-container {
     display: flex;
